@@ -1,0 +1,9 @@
+{
+  "name": "learning1_fileupload",
+  "version": "0.0.0",
+  "description": "learning1_fileupload",
+  "main": "server.js",
+  "author": {
+    "name": "Admin"
+  }
+}
