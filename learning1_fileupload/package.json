@@ -5,5 +5,11 @@
   "main": "server.js",
   "author": {
     "name": "Admin"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "formidable": "^1.1.1",
+    "mysql": "^2.14.1",
+    "tedious": "^2.0.0"
   }
 }
